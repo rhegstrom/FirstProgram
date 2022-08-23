@@ -3,6 +3,7 @@
 Spyder Editor
 
 Author: Roger Hegstrom
+Date: 8/18/2022
 
 Read the first two chapters in the text book.  This will get you acclimated to programming/ programming environment
 
