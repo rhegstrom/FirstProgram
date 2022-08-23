@@ -19,5 +19,5 @@ cnt = 0
 for a in range(1, 101):
     cnt += a
     
-print('The sum of the first 100 integers is: {}'.format(cnt))
+print(f'The sum of the first 100 integers(1 thru 100) is: {cnt:,}.')
 
